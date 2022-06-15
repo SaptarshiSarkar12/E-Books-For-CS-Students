@@ -18,7 +18,6 @@
 
 3. **[Android](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/tree/master/Android) :**
     - [50 Android Hacks - Carlos Sessa](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/50%20Android%20Hacks%20-%20Carlos%20Sessa.pdf)
-    - [Android App Development For Dummies - Michael Burton](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20App%20Development%20For%20Dummies%20-%20Michael%20Burton.pdf)
     - [Android Application Development All-in-One - Barry Burd](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Application%20Development%20All-in-One%20-%20Barry%20Burd.pdf)
     - [Android Application Testing Guide - Diego Torres Milano](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Application%20Testing%20Guide%20-%20Diego%20Torres%20Milano.pdf)
     - [Android Programming Tutorials - Mark L. Murphy](https://github.com/SaptarshiSarkar12/E-Books-For-CS-Students/blob/master/Android/Android%20Programming%20Tutorials%20-%20Mark%20L.%20Murphy.pdf)
